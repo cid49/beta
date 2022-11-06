@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>finished testing</h2>
+<h2>starting with azure vm</h2>
 </body>
 </html>
